@@ -1,3 +1,3 @@
 # Python Learning Project
 
-## website available at www://github.io/wassermanlab/plp
+## website available at https://www.github.io/wassermanlab/plp
