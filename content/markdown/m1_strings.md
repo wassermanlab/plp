@@ -1,4 +1,4 @@
-# Strings
+# 1a. Strings
 
 <aside>
 📌 Key points: data as information, the string data type, variables
