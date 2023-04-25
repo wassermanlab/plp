@@ -1,4 +1,4 @@
-# Variables
+# 1b. Variables
 
 <aside>
 📌 Key points: What is a variable, writing variables in Python, naming conventions.
