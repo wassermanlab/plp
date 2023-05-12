@@ -29,7 +29,7 @@ However, this level of data is difficult to read and even harder to program in. 
 
 A string is a type of data that looks and reads like plain english. Each string contains a collection of characters that can be made up of letters, numbers, and/or punctuation.
 
-![Can you figure out how many characters are in this string?](images/Untitled.png)
+![Can you figure out how many characters are in this string?](images/string.png)
 
 Can you figure out how many characters are in this string?
 
