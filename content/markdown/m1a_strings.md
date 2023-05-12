@@ -21,7 +21,7 @@ However, this level of data is difficult to read and even harder to program in. 
 
 ### Intro - how to make a computer speak English
 
-![YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg](images/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg)
+![YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg](images/gracehopper.jpg)
 
 > “They told me computers could only do arithmetic…So I decided data processors ought to be able to write their programs in English, and the computers would translate them into machine code” - Grace Hopper
 
