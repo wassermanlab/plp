@@ -11,7 +11,7 @@ The information stored in a computer is collectively referred to as data. Data c
 
 At the most basic level, computers store data in binary form.
 
-![Classic 1s and 0s you might have seen in movies.](images/binary.png)
+![Classic 1s and 0s you might have seen in movies.](images/binary.jpg)
 
 Classic 1s and 0s you might have seen in movies.
 
@@ -24,11 +24,10 @@ However, this level of data is difficult to read and even harder to program in. 
 ![YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg](images/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg)
 
 > “They told me computers could only do arithmetic…So I decided data processors ought to be able to write their programs in English, and the computers would translate them into machine code” - Grace Hopper
-> 
 
 ### What is a string?
 
-A string is a type of data that looks and reads like plain english. Each string contains a collection of characters that can be made up of letters, numbers, and/or punctuation. 
+A string is a type of data that looks and reads like plain english. Each string contains a collection of characters that can be made up of letters, numbers, and/or punctuation.
 
 ![Can you figure out how many characters are in this string?](images/Untitled.png)
 
@@ -55,33 +54,29 @@ Strings can contain letters, numbers, and punctuation.
 **A few basic requirements:**
 
 - Strings must start and end with the same “type” of quote
-    
-    ```python
-    "Hello" # correct
-    
-    'Hello" # incorrect
-    ```
-    
+
+  ```python
+  "Hello" # correct
+
+  'Hello" # incorrect
+  ```
 
 - Double-quoted strings can only span one line of code.
-    
-    ```python
-    "Hello my name is Alex" # correct 
-    
-    ****"Hello my
-    name is alex" # incorrect 
-    ```
-    
+
+  ```python
+  "Hello my name is Alex" # correct
+
+  ****"Hello my
+  name is alex" # incorrect
+  ```
 
 - Characters inside a string cannot contain the same type of quote as the type of quote enclosing the entire string. If it does, the interpreter won’t be able to see where the string is supposed to start and where it is supposed to end.
-    
-    ```python
-    "He said "goodbye""   # incorrect
-    					  # The interpreter sees “He said “ and “” as two independent strings.
-    "He said 'goodbye'"   # correct. 
-    					  # We use "" to enclose the string because the string contains ''
-    ```
-    
+  ```python
+  "He said "goodbye""   # incorrect
+  					  # The interpreter sees “He said “ and “” as two independent strings.
+  "He said 'goodbye'"   # correct.
+  					  # We use "" to enclose the string because the string contains ''
+  ```
 
 **If you try to execute a program with an incorrectly formatted string, it will not run and Python will display an error message.**
 
@@ -115,7 +110,7 @@ We can tell the interpreter that a quotation mark is part of a string by writing
 
 ## Exercises:
 
-**Converting to Strings** 
+**Converting to Strings**
 
 ```python
 # Convert the following data to string format **without deleting anything**
@@ -131,7 +126,7 @@ She said "ouch!"
 
 3*8=24
 
-"The red dog was named "rufus" " 
+"The red dog was named "rufus" "
 
 "Good morning\"
 
